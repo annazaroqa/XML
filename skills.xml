@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<skills>
+    <skill id="1">Checklist</skill>
+    <skill id="2">Bug report</skill>
+    <skill id="3">Documentation</skill>
+    <skill id="4">Smoke, CP, Regression testing</skill>
+    <skill id="5">Terminal</skill>
+    <skill id="6">Git</skill>
+</skills>
