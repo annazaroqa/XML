@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<bug_report>
+    <id>number</id>
+    <title>text</title>
+    <severity>low, minor, major, critical</severity>
+    <priority>low, medium, high</priority>
+    <steps_to_reproduce>steps</steps_to_reproduce>
+    <result>text</result>
+    <expected_result>text</expected_result>
+    <attachments>link, photo, video</attachments>
+</bug_report>
