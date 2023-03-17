@@ -5,7 +5,7 @@
     <severity>low, minor, major, critical</severity>
     <priority>low, medium, high</priority>
     <steps_to_reproduce>steps</steps_to_reproduce>
-    <result>text</result>
-    <expected_result>text</expected_result>
+    <result>result</result>
+    <expected_result>result</expected_result>
     <attachments>link, photo, video</attachments>
 </bug_report>
